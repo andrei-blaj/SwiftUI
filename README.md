@@ -3,7 +3,7 @@
 - SwiftUI Essentials
     - [X] ~~Creating and Combining Views~~
     - [X] ~~Building Lists and Navigation~~
-    - [X] Handling User Input
+    - [X] ~~Handling User Input~~
 
 - Drawing and Animation
     - [ ] Drawing Paths and Shapes
